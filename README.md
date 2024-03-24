@@ -1,7 +1,5 @@
 ## Sematic-Analysis
 
-# Advanced NLP with Vector Semantics, Sarcasm Detection, and Semantic Analysis
-
 This repository presents a series of in-depth explorations into cutting-edge Natural Language Processing (NLP) techniques, focusing on understanding vector semantics via the Skip-Gram model, detecting sarcasm in textual data, and conducting semantic analysis to derive meaningful insights from text.
 
 ## Project Overview
